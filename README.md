@@ -2,13 +2,12 @@
 
 This repository contains Power BI dashboard projects created using real-world datasets.
 
-Project: Global Superstore Sales Dashboard
+**Project: Global Superstore Sales Dashboard**
 
-Overview
-
+**Overview:**
 An interactive Power BI dashboard built using the Global Superstore dataset to analyze sales performance, profit trends, customer segments, and shipping modes.
 
-Key Insights
+**Key Insights:**
 
 - Sales and profit analysis
 - Monthly sales trend tracking
@@ -17,17 +16,12 @@ Key Insights
 - Discount vs profit relationship
 - Interactive slicers and filtering
 
-Tools Used
-
+**Tools Used:**
 - Power BI
 - Data Visualization
 - Dashboard Design
 - Business Analytics
 
-Dataset
+**Dataset:** Global Superstore Dataset
 
-Global Superstore Dataset
-
-Dashboard Preview
-
-Dashboard screenshot included in this repository.
+**Dashboard Preview:** Dashboard screenshot included in this repository.
